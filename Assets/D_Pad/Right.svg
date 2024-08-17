@@ -49,7 +49,7 @@
      style="display:inline"
      transform="translate(-89.074999,-136.20799)"><path
        sodipodi:type="star"
-       style="display:inline;fill:#ffffff;fill-opacity:0.948171;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
        id="path12"
        inkscape:flatsided="false"
        sodipodi:sides="3"
@@ -65,4 +65,7 @@
        inkscape:transform-center-x="-1.9498669"
        inkscape:transform-center-y="1.9298596"
        transform="rotate(60,216.18268,172.34643)"
-       inkscape:label="Right" /></g></svg>
+       inkscape:label="Right"
+       inkscape:export-filename="Stickless-Fightpad-Gamepad-Viewer\Assets\D_Pad\Right.svg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" /></g></svg>
